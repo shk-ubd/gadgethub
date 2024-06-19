@@ -1,5 +1,3 @@
-Sure! Here is the updated `README.md` with the necessary details about the `.env` files:
-
 # GadgetHub Ecommerce App
 
 GadgetHub is a ReactJS-based ecommerce application that utilizes Sanity.io as a headless CMS and integrates with the Stripe payment gateway for transactions.
